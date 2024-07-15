@@ -1,6 +1,6 @@
 {
   "name": "typescript-fun",
-  "description": "",
+  "description": "Dive into the world of `type argument inference`",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
