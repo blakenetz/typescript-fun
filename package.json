@@ -1,4 +1,24 @@
 {
+  "name": "typescript-fun",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakenetz/typescript-fun.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Blake Netzeband <blake.netzeband@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakenetz/typescript-fun/issues"
+  },
+  "homepage": "https://github.com/blakenetz/typescript-fun#readme",
   "devDependencies": {
     "typescript": "^5.5.3"
   }
